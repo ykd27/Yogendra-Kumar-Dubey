@@ -1,7 +1,7 @@
 <p align="center">
 </p>
 <h1 align="center">Hello Everyone, I am Yogendra Kumar Dubey 👋
-  <h3 align="center"><a href="https://summerofcode.withgoogle.com/programs/2022/projects/Sg34Qe09">GSoC'22 </a> Contributor @CCExtractor | Tech Lead @<a href="https://www.linkedin.com/company/befikracommunity"> Befikra Community </a> | Deputy Manager @<a href="https://www.linkedin.com/company/technical-council-nit-trichy/">Technical Council NIT Trichy</a> | Microsft Learn Student Ambassaodrs @<a href="https://www.microsoft.com">Microsoft</a></h3>
+  <h3 align="center">I am a web developer with a strong interest in technology and ability to perform well in a team. I have experience completing personal projects that demonstrate my ability to work independently, problem-solve, and deliver quality results. I am actively seeking new opportunities to expand my skills and grow as a professional in the technology industry. I mostly work with Frontend, but when needed, I can also work on the backend side of development. Passionate about coding and enjoy coding</h3>
   <h3 align="center">Web developer | App developer | Pre-Final Year at Lovely Professional University </h3>
 
 
